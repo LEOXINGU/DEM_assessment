@@ -16,8 +16,8 @@
  ***************************************************************************/
 """
 # Acuracia Relativa de MDE
-##Acuracia Relativa de MDE=name
-##LF07) Qualidade=group
+##DEM Relative Accuracy=name
+##DEM Assessment=group
 ##MDE_Avaliado=raster
 ##MDE_de_Referencia=raster
 ##Tipo_de_Interpolacao=selection Bicubica;Bilinear;Vizinho Mais Proximo
